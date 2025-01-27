@@ -9,7 +9,7 @@
 ![X](https://img.shields.io/badge/@as.ewo.user-990099?style=for-the-badge&logo=Instagram&logoColor=white)
 ![X](https://img.shields.io/badge/ewo.fluffy-000099?style=for-the-badge&logo=Discord&logoColor=white)
 
-Someone who really like developement in languages like `Python` , `Javascript` but also `C++` and even `Assembly` :D
+Someone who really like development in languages like `Python` , `Javascript` but also `C++` and even `Assembly` :D
 
 I like `UX design` too and I make some `art` (`Music` or `drawing`)
 
