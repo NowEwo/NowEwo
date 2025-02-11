@@ -2,7 +2,7 @@
   <img width="460" src="https://github.com/user-attachments/assets/a9b5e8a3-fc41-4621-bfb0-79426724c122">
 </p>
 
-# Welcome here :3 , I'm Ewo
+# Hello there, Ewo's here :3
 
 ![X](https://img.shields.io/badge/@EwoFluffy-000000?style=for-the-badge&logo=X&logoColor=white)
 ![X](https://img.shields.io/badge/@NowEwo-990000?style=for-the-badge&logo=Youtube&logoColor=white)
